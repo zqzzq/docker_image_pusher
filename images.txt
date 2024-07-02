@@ -1,2 +1,2 @@
-hiett/serverless-redis-http:latest
-redis
+kserve/kserve-controller@sha256:1e115d7476d7348e4dd88640a8a2339ef9f533cbc36e0c3e0041a0e1a52756fd
+cbartifactory/kube-rbac-proxy@sha256:137be6a7d182ae958582b2c1eed88ff95f61aaad0d2206e172ea06237eecccee
