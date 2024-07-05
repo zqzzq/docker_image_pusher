@@ -1,3 +1,1 @@
-quay.io/cilium/alpine-curl:v1.7.0
-quay.io/cilium/json-mock:v1.3.5
-docker.io/coredns/coredns:1.10.1
+kindest/node:v1.30.0
