@@ -1,1 +1,1 @@
-kindest/node:v1.30.0
+minio/minio@sha256:8cd70efab36eb3bcc8ce44b34ee9eb76efe5444011dfe737d3fff7a860230db5
