@@ -1,5 +1,2 @@
-gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:56142833a9f87213e055045f0ea59c3f00f024d095c052f7669f7b9d77c55e54
-gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:ee130d9e7e217b4cb4d844881491688e20f3a91a0e4de750eb663ec5db30a162
-gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:2c6f0796b2f5c387079a4476c1bf04faae452dccb56157a43cb2a8791559fff6
-gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:b2134eada0ef0105acb0d824f5a1803d25f0ec6079cb0dd2c2ad2296b4697d89
-gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:d138fd82b127b11216c46b8afc83d6bf97d63b9828894255211c4d6afd5a0a93
+gcr.io/knative-releases/knative.dev/net-istio/cmd/controller@sha256:3c8d9cba61bbdf91d2c0ddc15ce7593ee776cbf5f7b4262132e0b2230441e16b
+gcr.io/knative-releases/knative.dev/net-istio/cmd/webhook@sha256:fc70f9b07cc855e39357bbc5166e933074473e10ecf01d78ee289f6b8c968890
