@@ -1,1 +1,1 @@
-ctrox/criu:v3.18
+pfelipefeitosa/criu:alpine-v3.13
