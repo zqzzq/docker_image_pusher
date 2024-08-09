@@ -1,1 +1,1 @@
-ubuntu
+chrisbattarbee/criu-env:checkpoint
