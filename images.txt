@@ -1,2 +1,1 @@
-gcr.io/knative-releases/knative.dev/net-istio/cmd/controller@sha256:3c8d9cba61bbdf91d2c0ddc15ce7593ee776cbf5f7b4262132e0b2230441e16b
-gcr.io/knative-releases/knative.dev/net-istio/cmd/webhook@sha256:fc70f9b07cc855e39357bbc5166e933074473e10ecf01d78ee289f6b8c968890
+openjdk:24-jdk-slim-bullseye
