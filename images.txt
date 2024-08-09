@@ -1,1 +1,1 @@
-chrisbattarbee/criu-env:checkpoint
+ctrox/criu:v3.18
