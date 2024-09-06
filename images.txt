@@ -1,1 +1,1 @@
-golang:1.22.6
+php:7.3.29-stretch
