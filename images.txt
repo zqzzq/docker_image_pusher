@@ -1,1 +1,12 @@
-debezium/connect:3.0.0.Final
+mysql:8.0.28
+apachepulsar/pulsar:2.8.2
+inlong/manager:2.1.0
+inlong/dashboard:2.1.0
+inlong/dataproxy:2.1.0
+inlong/agent:2.1.0
+inlong/audit:2.1.0
+apache/flink:1.15-scala_2.12
+apache/flink:1.15-scala_2.12
+otel/opentelemetry-collector-contrib:0.110.0
+grafana/loki:3.0.0
+grafana/grafana:latest
