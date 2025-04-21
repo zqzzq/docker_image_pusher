@@ -1,1 +1,1 @@
-apache/skywalking-go@sha256:4a0303d1e5a776c02f8c6db4c7cee5197f6ffdef062ed3571c8b4885b45d1581
+debezium/connect:3.0.0.Final
