@@ -1,3 +1,4 @@
+provectuslabs/kafka-ui:latest
 debezium/zookeeper:3.0.0.Final
 debezium/kafka:3.0.0.Final
 debezium/connect:3.0.0.Final
