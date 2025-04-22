@@ -1,3 +1,3 @@
-debezium/zookeeper:2.4
-debezium/kafka:2.4
-debezium/connect:2.4
+debezium/zookeeper:3.0.0.Final
+debezium/kafka:3.0.0.Final
+debezium/connect:3.0.0.Final
