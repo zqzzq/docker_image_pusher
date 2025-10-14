@@ -1,1 +1,1 @@
-debian:stretch
+alexeiled/nsenter:2.34
