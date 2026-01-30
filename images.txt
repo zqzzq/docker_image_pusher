@@ -1,1 +1,2 @@
-prom/prometheus:v3.8.1
+quay.io/metallb/controller:v0.15.3
+quay.io/metallb/speaker:v0.15.3
