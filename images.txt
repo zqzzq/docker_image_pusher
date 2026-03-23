@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:0.5.3-local
+ghcr.io/openclaw/openclaw:latest
