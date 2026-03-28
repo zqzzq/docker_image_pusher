@@ -1,1 +1,1 @@
-alpine/openclaw:2026.3.24
+n8nio/n8n:2.14.0-amd64
