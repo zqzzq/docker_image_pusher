@@ -1,1 +1,1 @@
-n8nio/n8n:2.14.0-amd64
+verdaccio/verdaccio:6.3.2
