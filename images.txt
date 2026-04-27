@@ -1,1 +1,1 @@
-prom/prometheus:v3.11.2
+prometheuscommunity/ipmi-exporter:v1.10.1
