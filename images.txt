@@ -1,1 +1,2 @@
-prometheuscommunity/ipmi-exporter:v1.10.1
+ghcr.io/berriai/litellm-non_root:v1.85.4
+docker.litellm.ai/berriai/litellm-non_root:v1.85.4
