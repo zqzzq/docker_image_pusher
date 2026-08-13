@@ -1,1 +1,1 @@
-vllm/vllm-omni:v0.24.0
+nginx:1.31.3
