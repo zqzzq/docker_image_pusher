@@ -1,1 +1,2 @@
-debezium/connect:2.7.3.Final
+debezium/connect:3.0.0.Final
+
