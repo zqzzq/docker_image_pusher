@@ -1,1 +1,1 @@
-haproxy@sha256:4d43dfec337183447de72796ecb6859aa9d87ddece0d8e8fe182e9dc6a144b07
+debezium/kafka:3.0.0.Final
