@@ -1,1 +1,1 @@
-provectuslabs/kafka-ui:latest
+postgres:15-alpine
