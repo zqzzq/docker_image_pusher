@@ -1,1 +1,1 @@
-postgres:15-alpine
+nginx/nginx-prometheus-exporter:1.5.1
